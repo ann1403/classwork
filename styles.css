@@ -1,0 +1,25 @@
+h1 {
+    text-align:  center;
+    color: pink;
+    margin: 10;
+    
+}
+p {
+    border: 1px solid pink;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: bisque;
+    margin: 0;
+    text-align:  center;
+}
+img{
+    margin-left: 50%;
+
+}
+.bord{
+
+    border: 2px;
+}
+a{
+    text-align: right; 
+}
